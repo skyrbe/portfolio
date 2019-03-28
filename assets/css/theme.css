@@ -1,10 +1,10 @@
 /* light-theme */
 .light-theme.preload {
-  background-image: url(../images/bg_small.jpg);
+  background-image: url(/portfolio/images/bg_small.jpg);
 }
 
 .light-theme.postload {
-  background-image: url(../images/bg.jpg);
+  background-image: url(/portfolio/images/bg.jpg);
 }
 
 .light-theme .dock-container:before {
