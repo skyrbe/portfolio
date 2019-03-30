@@ -1,10 +1,10 @@
 /* light-theme */
 .light-theme.preload {
-  background-image: url(/portfolio/assets/images/bg_small.jpg);
+  background-image: url(/assets/images/bg_small.jpg);
 }
 
 .light-theme.postload {
-  background-image: url(/portfolio/assets/images/bg.jpg);
+  background-image: url(/assets/images/bg.jpg);
 }
 
 .light-theme .dock-container:before {
@@ -47,11 +47,11 @@
 }
 
 .dark-theme.preload {
-  background-image: url(/portfolio/assets/images/bg_dark_small.jpg);
+  background-image: url(/assets/images/bg_dark_small.jpg);
 }
 
 .dark-theme.postload {
-  background-image: url(/portfolio/assets/images/bg_dark.jpg);
+  background-image: url(/assets/images/bg_dark.jpg);
 }
 
 .dark-theme .finder .left-col:after {
