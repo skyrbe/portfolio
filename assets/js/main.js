@@ -63,13 +63,13 @@ function _initFullScreen() {
 
 function _initBackgroundImage() {
   var tmpImg = new Image() ;
-  tmpImg.src = '/portfolio/assets/images/bg.jpg';
+  tmpImg.src = '/assets/images/bg.jpg';
   tmpImg.onload = function() {
     $('html.light-theme').removeClass('preload').addClass('postload');
   }
 
   var tmpImgDark = new Image() ;
-  tmpImgDark.src = '/portfolio/assets/images/bg_dark.jpg';
+  tmpImgDark.src = '/assets/images/bg_dark.jpg';
   tmpImgDark.onload = function() {
     $('html.dark-theme').removeClass('preload').addClass('postload');
   }
